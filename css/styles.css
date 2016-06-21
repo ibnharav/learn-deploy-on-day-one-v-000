@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#jonathan-j-bernstein-card{
+  background-image: url("http://imgur.com/FlfyfFx.jpg");
+}
+
+#jonathan-j-bernstein-cover{
+  background-image: url("http://imgur.com/INW9CWo.jpg");
+}
 
 #justin-lefurjah-cover{
    background-image: url("http://i.imgur.com/TNP2xUy.jpg");
